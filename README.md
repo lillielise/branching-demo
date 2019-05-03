@@ -6,3 +6,5 @@ Here is added stuff on the first commit of branch 1
 Here is stuff added on the second commit of branch 1
 
 Added for branch 2
+
+Added for branch 3
